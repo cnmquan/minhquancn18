@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quân</h1>
 <h3 align="center">I love to interact and do projects or work with people. I am currently a student at UIT. If you are short of people or need support in a project or at work, you can contact me through this email, I will not hesitate to help you.</h3>
+<img align="right" height=400 alt="Boy Studying Science" src="https://user-images.githubusercontent.com/71182342/174432356-c883886c-dc4f-4bbb-a992-151fa70ed621.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhquancn18&label=Profile%20views&color=0e75b6&style=flat" alt="minhquancn18" /> </p>
 
