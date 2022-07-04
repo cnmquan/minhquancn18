@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/quân-cao-nguyễn-minh-079b4b229" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quân-cao-nguyễn-minh-079b4b229" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/quân-cao-nguyễn-minh-895442244/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quân-cao-nguyễn-minh-895442244" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
